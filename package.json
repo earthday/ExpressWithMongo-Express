@@ -1,5 +1,5 @@
 {
-  "name": "express with mongo-express",
+  "name": "express_with_mongo-express",
   "version": "0.0.0",
   "private": true,
   "scripts": {
